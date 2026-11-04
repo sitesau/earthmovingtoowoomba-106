@@ -1,0 +1,22 @@
+{
+  "wheel_id": 750,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-106",
+  "project": "earthmoving-contractors-toowoomba-pros-and-cons-8ec8115eac24cb7",
+  "parent_t1_ref": "earthmovingtoowoomba-152",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving contractors toowoomba pros and cons",
+  "intended_url": "http://earthmoving-contractors-toowoomba-pros-and-cons-8ec8115eac24cb7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "d21cd65775a9a176",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/earthmoving-contractors-toowoomba-common-mistakes-27b09ba03f10e/",
+      "anchor": "Earthmoving Contractors Toowoomba Common Mistakes: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
